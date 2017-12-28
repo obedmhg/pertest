@@ -8,30 +8,10 @@ Be prepared for that moment, and do not worry about the site become slow, becuas
 
 Pertest runs on aws to create Concurrent sessions to your site, and hit your site hard as a real life situation.
 
-```markdown
-Syntax highlighted code block
+### Selenium
 
-# Header 1
-## Header 2
-### Header 3
+It uses selenium web driver to navigate on the site, the same as a real person doing it on their computer.
 
-- Bulleted
-- List
+### Dashboards
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/obedmhg/pertest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+It will provide you with Dashboards that will have a summary of a performance test, such as screenshots, request and response, error rate, average response time and so on.
