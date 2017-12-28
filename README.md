@@ -7,10 +7,12 @@ Be prepared for that moment, and do not worry about the site become slow, becuas
 ### AWS
 
 Pertest runs on aws to create Concurrent sessions to your site, and hit your site hard as a real life situation.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/2000px-AmazonWebservices_Logo.svg.png)
 
 ### Selenium
 
 It uses selenium web driver to navigate on the site, the same as a real person doing it on their computer.
+![](https://training.saucelabs.com/static/skin/lde-skin-saucelabs/resources/images/Selenium-logo.png)
 
 ### Dashboards
 
